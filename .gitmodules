@@ -1,0 +1,3 @@
+[submodule "96boards_lib"]
+	path = 96boards_lib
+	url = https://github.com/96boards-projects/96Boards_lib
